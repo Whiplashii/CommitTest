@@ -5,6 +5,6 @@ public class Main
         System.out.println("qwe");
         System.out.println("zxc");
         System.out.println("Test commit");
-        System.out.println("Ski");
+        
     }
 }
